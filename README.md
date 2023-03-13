@@ -4,6 +4,8 @@
 
 <h2 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FiraCode&pause=1000&color=8FFF00&vCenter=true&width=435&lines=Web+Developer+focused+on+Front-End" alt="Typing SVG"/></a></h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mecshi&show_icons=true&theme=dark&icon_color=8fff00&hide_border=true&border_radius=8"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecshi&hide_progress=compact&layout=compact&theme=dark" />
 
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mecshi&show_icons=true&theme=dark&icon_color=8fff00&hide_border=true&border_radius=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecshi&hide_progress=compact&layout=compact&theme=dark&hide_border=true" />
+</div>
